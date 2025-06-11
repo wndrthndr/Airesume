@@ -1,0 +1,16 @@
+# .gitignore
+
+# Node
+frontend/node_modules
+frontend/.next
+frontend/.env.local
+
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/.env
+
+# General
+.env
+.DS_Store
